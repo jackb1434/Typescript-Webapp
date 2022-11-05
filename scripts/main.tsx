@@ -9,7 +9,8 @@ let words: string[] = [
     "Hello, World!",
     "Visit my website: <span>http://www.jackb1434.com</span>",
     "AUGHHHHHHHHHHHHHHHH",
-    "Buy my beats"
+    "Buy my beats",
+    "This project has 6 commits"
 ]
 
 var index: number;
